@@ -13,16 +13,15 @@
 3. plaformio : https://platformio.org/
 ## วิธีทำการทดลอง
 1. ต่อไมโครคอนโทลเลอร์กับซีเรียล
-2. เข้าcommand prompt
-3. เข้าตัวอย่างโปรแกรมดว้ยคำสั่ง cd pattani 
-4. เลือกตัวอย่างโปรแกรม cd 01_Serial-Monitor
-5. พิมคำสั่ง vi src/main.cpp 
+2. เข้าcommand prompt แล้วพิมคำสั่ง cd pattani เพื่อเข้าโปรแกรมตัวอย่าง 
+3. เลือกตัวอย่างโปรแกรม cd 01_Serial-Monitor 
+4. พิมคำสั่ง vi src/main.cpp 
 ![image](https://user-images.githubusercontent.com/80883602/112285674-260c9b00-8cbd-11eb-9878-5c38f94982d6.png)
 
-6. ทำการอัพโหลดโปรแกรม01 serial เข้าไมโครคอนโทลเลอร์ด้วยคำสั่ง pio run -t upload เมื่อกดEnterหน้าจอจะแสดงผลดังนี้
+5. ทำการอัพโหลดโปรแกรม01 serial เข้าไมโครคอนโทลเลอร์ด้วยคำสั่ง pio run -t upload เมื่อกดEnterหน้าจอจะแสดงผลดังนี้
 ![image](https://user-images.githubusercontent.com/80883602/112288245-ba77fd00-8cbf-11eb-820d-8874b030f167.png)
 
-7. กดปุ่มรีเซ็ตแล้ว พิมพ์คำสั่งpio device monitor เพื่อดูผลลัพท์
+6. กดปุ่มรีเซ็ตแล้ว พิมพ์คำสั่งpio device monitor เพื่อดูผลลัพท์
 ![image](https://user-images.githubusercontent.com/80883602/112288793-4853e800-8cc0-11eb-9484-61c8961a1d45.png)
 
 ## บันทึกผลการทดลอง
