@@ -7,7 +7,7 @@
 1. ไมโครคอนโทลเลอร์
 2. อุปกรณ์ USB
 3. CPU
-## ศึกษาข้อมูล
+## ศึกษาข้อมูลเบื้องต้น
 1. 01 run example 1 : https://www.youtube.com/watch?v=NLIUsWLEpmg
 2. code 01_Serial-Monitor: https://github.com/choompol-boonmee/lab63b/blob/master/examples/01_Serial-Monitor/src/main.cpp
 3. plaformio : https://platformio.org/
