@@ -25,10 +25,10 @@
 8. นำสายสีขาว (พอร์ท 0) จิ้มเข้ากับเส้นแดง
 ![image](https://user-images.githubusercontent.com/80883602/112349679-83274180-8cfb-11eb-9c71-b3d145f3dc42.png)
 
-9. เมื่อกดปุ่มสีดำ (พอร์ท 0=0) input=0![image](https://user-images.githubusercontent.com/80883602/112352788-a94de100-8cfd-11eb-934d-61b54509f8a7.png)
-
-10. เมื่อปล่อย input=1![image](https://user-images.githubusercontent.com/80883602/112352808-aeab2b80-8cfd-11eb-8bf3-adb36157044d.png)
-
+9. เมื่อกดปุ่มสีดำ (พอร์ท 0=0) input=0
+![image](https://user-images.githubusercontent.com/80883602/112352808-aeab2b80-8cfd-11eb-8bf3-adb36157044d.png)
+10. เมื่อปล่อย input=1
+![image](https://user-images.githubusercontent.com/80883602/112352788-a94de100-8cfd-11eb-934d-61b54509f8a7.png)
 11. นำเซนแสงต่อเข้าดังรูป
 ![image](https://user-images.githubusercontent.com/80883602/112352246-32184d00-8cfd-11eb-8ac0-6297c9d73207.png) 
 12. เอานิ้วไปบังหน้าเซนเซอร์ ![image](https://user-images.githubusercontent.com/80883602/112352858-bb2f8400-8cfd-11eb-975c-9d89675d91cc.png)
