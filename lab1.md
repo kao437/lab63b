@@ -9,7 +9,8 @@
 3. CPU
 ## ศึกษาข้อมูล
 1. 01 run example 1 : https://www.youtube.com/watch?v=NLIUsWLEpmg
-2. plaformio : https://platformio.org/
+2. code 01_Serial-Monitor: https://github.com/choompol-boonmee/lab63b/blob/master/examples/01_Serial-Monitor/src/main.cpp
+3. plaformio : https://platformio.org/
 ## วิธีทำการทดลอง
 1. ต่อไมโครคอนโทลเลอร์กับซีเรียล
 2. เข้าcommand prompt
