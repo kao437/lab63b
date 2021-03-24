@@ -6,6 +6,7 @@
 2. อุปกรณ์ต่อUSB
 3. relay
 4. powerbank
+5. อแดปเตอร์
 ## ศึกษาข้อมูลเบื้องต้น
 run relay : https://www.youtube.com/watch?v=6JnhaUILGuw
 relay : http://www.psptech.co.th/
