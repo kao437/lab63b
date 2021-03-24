@@ -16,6 +16,7 @@
 3. เข้าตัวอย่างโปรแกรมดว้ยคำสั่ง cd pattani 
 4. เลือกตัวอย่างโปรแกรม cd 01_Serial-Monitor
 5. พิมคำสั่ง vi src/main.cpp 
+![image](https://user-images.githubusercontent.com/80883602/112285674-260c9b00-8cbd-11eb-9878-5c38f94982d6.png)
 
 6. ทำการอัพโหลดโปรแกรม01 serial เข้าไมโครคอนโทลเลอร์ด้วยคำสั่ง pio run -t upload เมื่อกดEnterหน้าจอจะแสดงผลดังนี้
 
