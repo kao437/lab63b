@@ -15,6 +15,7 @@ code 02_Scan-WIFI : https://github.com/choompol-boonmee/lab63b/blob/master/examp
 2. เตรียมที่จะอัพโหลดโปรแกรมเข้าด้วยคำสั่ง vi src/main.cpp
 3. อัพโหลดโปรแกรมเข้าสู่ไมโครคอลโทลเลอร์ด้วยคำสั่ง pio run -t upload
 4. เมื่ออัพโหลดเสร็จจะพิมพ์คำสั่ง pio device monitor เพื่อดูว่าเจอWIFIอะไรบ้าง
+![image](https://user-images.githubusercontent.com/80883602/112296896-d5e70600-8cc7-11eb-93b7-6a2f1e8b42ce.png)
 
 ## การบันทึกผลการทดลอง
 เมื่อเราพิมพ์คำสั่ง  pio device monitor ไมโครคอนโทลเลอร์จะเริ่มสแกนหาWIFIที่ตรวจพบ
